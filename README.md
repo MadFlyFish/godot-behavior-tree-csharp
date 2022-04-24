@@ -1,5 +1,12 @@
-# -godot-behavior-tree-csharp
-A Csharp  implement of godot-behavior-tree. Thanks for the work @kagenash1 has done.
+A pure Csharp Porting of godot-behavior-tree. It still needs to be polished but it works now. I will keep up maintaining.
+
+Thanks to the useful work done by kagenash1 https://github.com/kagenash1/godot-behavior-tree
+
+Here's the original guide. It may help you To start use it.
+
+There's slight difference compared to the origin GDS version
+
+PascalCase is used instead of the snake_case used in GDScript.
 
 # Origin godot-behavior-tree guide.
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/GabrieleTorini) 
