@@ -2,7 +2,7 @@ A pure Csharp Porting of godot-behavior-tree. It still needs to be polished but 
 
 Thanks to the useful work done by kagenash1 https://github.com/kagenash1/godot-behavior-tree
 
-Here's the original guide. It may help you To start use it.
+Here's the original guide. It may help you to start using it.
 
 There's slight difference compared to the origin GDS version
 
