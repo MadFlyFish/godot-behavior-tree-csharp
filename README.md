@@ -1,7 +1,7 @@
 # -godot-behavior-tree-csharp
-A Csharp  implement of godot-behavior-tree
+A Csharp  implement of godot-behavior-tree. Thanks for the work @kagenash1 has done.
 
-# Origin godot-behavior-tree
+# Origin godot-behavior-tree guide.
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/GabrieleTorini) 
 
 A GDScript implementation of a behavior tree for game AI, based on native Godot nodes and using the built in scene tree editor.
